@@ -1,37 +1,46 @@
-Ninja Gaiden I – NG2 Style
 
-This ROM hack brings Ryu's movement mechanics and visual appearance from Ninja Gaiden II into Ninja Gaiden I, while preserving the original stages of the first game.
+# Ninja Gaiden I – NG2 Style
 
-Features
+This ROM hack brings Ryu's movement mechanics and visual appearance from **Ninja Gaiden II** into **Ninja Gaiden I**, while preserving the original stages of the first game.
 
-Vertical jump physics, gravity, and falling speed based on NG2.
+### Features
 
-Ryu's sprites and animations adapted from NG2.
+\- Vertical jump physics, gravity, and falling speed based on NG2.
 
-Ability to climb up and down walls.
+\- Ryu's sprites and animations adapted from NG2.
 
-Diagonal wall jumps, allowing Ryu to jump back onto ledges and platforms.
+\- Ability to climb up and down walls.
 
-Ninpo usage while climbing walls and ladders, featuring dedicated animations and the ability to throw projectiles forward or backward.
+\- Diagonal wall jumps, allowing Ryu to jump back onto ledges and platforms.
 
-Returning Windmill Star with graphics, rotation, acceleration, and tracking behavior based on NG2.
+\- Ninpo usage while climbing walls and ladders, featuring dedicated animations and the ability to throw projectiles forward or backward.
 
-Preserved Mechanics
+\- Returning Windmill Star with graphics, rotation, acceleration, and tracking behavior based on NG2.
 
-The original sword hitbox has been preserved. The Returning Windmill Star still costs five Ninpo points and remains limited to one active projectile at a time.
+### Preserved Mechanics
 
-Required ROM for IPS Patching
+\- The original sword hitbox has been preserved.
 
-Game: Ninja Gaiden (USA), NES.
+\- The Returning Windmill Star still costs five Ninpo points.
 
-Format: ROM with iNES header.
+\- Only one Returning Windmill Star can be active at a time.
 
-Size: 262160 bytes.
+### Required ROM for IPS Patching
 
-CRC32: 11F953F6.
+\- **Game:** Ninja Gaiden (USA), NES.
 
-Apply the IPS patch directly to the original ROM. No previous versions are required.
+\- **Format:** ROM with iNES header.
 
-Testing Status
+\- **Size:** 262160 bytes.
 
-The hack has been successfully playtested from beginning to end in a complete playthrough.
+\- **CRC32:** `11F953F6`.
+
+### Installation
+
+\- Apply the IPS patch directly to the original ROM.
+
+\- No previous versions are required.
+
+### Testing Status
+
+\- **The hack has been successfully playtested from beginning to end in a complete playthrough.**
